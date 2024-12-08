@@ -1,0 +1,4 @@
+.env
+res.js
+node_modules
+.serverless
